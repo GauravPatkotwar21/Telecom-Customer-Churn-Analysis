@@ -1,4 +1,4 @@
-# 📞 Telecom Customer Churn Analysis & Retention Strategy
+# 📞 Telecom Customer Churn Analysis 
 
 An end-to-end data analytics and business intelligence project engineered to analyze customer attrition drivers, quantify revenue at risk, and formulate data-backed retention strategies using **Microsoft Excel**, **Power BI**, and **AI Tools**.
 
