@@ -8,8 +8,8 @@ An end-to-end data analytics and business intelligence project engineered to ana
 Customer churn poses a direct threat to recurring telecommunications revenue. This project analyzes customer demographics, subscription services, contract types, tenure cohorts, and payment behaviors to diagnose churn risk factors and build an interactive decision-support system.
 
 - **Primary Goal:** Uncover root causes of customer churn and build actionable retention strategies.
-- **Tech Stack:** Microsoft Excel, Power BI, DAX Modeling, AI-Augmented Analytics.
-- **Core KPIs:** Overall Churn Rate (%), Total Active vs Churned Customers, Monthly Recurring Revenue (MRR) at Risk, High-Risk Cohorts.
+- **Tech Stack:** Microsoft Excel, Power BI, DAX , AI-Augmented Analytics.
+- **Core KPIs:** Total Customers, Churned Customers, Churn Rate, Average Monthly Charges, Revenue at Risks.
 
 ---
 
@@ -21,16 +21,14 @@ Customer churn poses a direct threat to recurring telecommunications revenue. Th
        ▼
 1. Microsoft Excel
    - Data cleaning, null-handling, standardizing categorical values
-   - Calculated fields (Tenure brackets, Monthly spend tiers)
        │
        ▼
 2. AI-Augmented Analytics
-   - Exploratory risk factor discovery & feature correlation
-   - Natural language root-cause synthesis
+   - risk factor discovery 
+   - root-cause synthesis
        │
        ▼
-3. Power BI Modeling & DAX
-   - Relational Star Schema data modeling
+3. Power BI  & DAX
    - Custom DAX measures for Churn %, Revenue Exposure, and Cohort Segments
        │
        ▼
@@ -42,6 +40,11 @@ Customer churn poses a direct threat to recurring telecommunications revenue. Th
    - Targeted business interventions for high-risk customer segments
   
 
-  📊 Dashboard Preview
+  📊 Dashboard previews
+
+  <img width="1197" height="676" alt="Dashboard previews" src="https://github.com/user-attachments/assets/467504a4-e96d-4764-913e-8cdfa00c03b0" />
+  
+
+  
 
   
